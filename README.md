@@ -1,11 +1,11 @@
-# 🎬 CineTrainee — Lançamentos de Filmes
+# CineTrainee — Lançamentos de Filmes
 
 Projeto desenvolvido para a **Atividade Trainee de Projetos da Calang.io 2025.2**, consistindo em um site responsivo sobre **lançamentos de filmes**, com integração de API e back-end em Node.js.  
 O objetivo é praticar conceitos fundamentais de desenvolvimento web: HTML, CSS, JavaScript, consumo de API, rotas de back-end e comunicação via fetch.
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 filmes-trainee/
 │── backend/
 │ └── server.js
@@ -17,7 +17,7 @@ filmes-trainee/
 
 ---
 
-## 🌐 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### **Front-end**
 - HTML5  
@@ -35,25 +35,25 @@ Usada para buscar os lançamentos mais recentes de filmes.
 
 ---
 
-# 🧭 Seções do Site
+# Seções do Site
 
-### ✔ Navbar  
+### Navbar  
 Barra de navegação com links âncora para todas as seções principais.
 
-### ✔ Apresentação  
+### Apresentação  
 Inclui título, subtítulo e botão com rolagem suave para a seção de filmes.
 
-### ✔ Hero  
+### Hero  
 Imagem de fundo em destaque com frase chamativa relacionada ao cinema.
 
-### ✔ Seção “Lançamentos”  
+### Seção “Lançamentos”  
 Lista de filmes gerada dinamicamente a partir da API TMDB.  
 Inclui:
 - pôster  
 - título  
 - estrutura responsiva em grid  
 
-### ✔ Contato  
+### Contato  
 Formulário com:
 - Nome  
 - Email  
@@ -64,7 +64,7 @@ Formulário com:
 
 ---
 
-# 🚀 Funcionalidades Implementadas
+# Funcionalidades Implementadas
 
 | Funcionalidade | Status |
 |----------------|--------|
@@ -81,7 +81,7 @@ Formulário com:
 
 ---
 
-# 🔧 Rotas do Back-End (Node.js + Express)
+# Rotas do Back-End (Node.js + Express)
 
 ### **POST `/contato`**
 Recebe os dados do formulário.
